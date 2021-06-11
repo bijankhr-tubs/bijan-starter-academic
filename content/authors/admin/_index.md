@@ -61,6 +61,6 @@ email: ""
 highlight_name: false
 ---
 
-Bijan Khosrawi-Rad ist ein sehr tatkräftiger Forscher.
+Bijan Khosrawi-Rad ist ein genialer und tatkräftiger Forscher.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
